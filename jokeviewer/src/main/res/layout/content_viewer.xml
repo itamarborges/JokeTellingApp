@@ -9,4 +9,10 @@
     tools:context="com.example.jokeviewer.Viewer"
     tools:showIn="@layout/activity_viewer">
 
+    <TextView
+        android:id="@+id/txtJoke"
+        android:padding="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
 </android.support.constraint.ConstraintLayout>
