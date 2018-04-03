@@ -14,6 +14,7 @@ import butterknife.ButterKnife;
 public class Viewer extends AppCompatActivity {
 
     public final static String INTENT_KEY_JOKE = "key_joke";
+    public final static String INTENT_KEY_INTERFACE = "key_interface";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
